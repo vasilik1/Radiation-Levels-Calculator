@@ -1,4 +1,4 @@
-# Radiation-Levels-Calculator
+Radiation Levels Calculator.
 
 Welcome to the Radiation Levels Calculator, a Python program designed to analyse radiation levels efficiently in various locations. 
 This tool is based on scientific experiments, collecting multiple radiation measurements from different areas to provide valuable statistical insights.
